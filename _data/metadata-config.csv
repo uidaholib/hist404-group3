@@ -7,8 +7,9 @@ subject,Subjects
 place,Location
 latitude,Latitude
 longitude,Longitude
-collection,Source Collection
+source,Source Collection
 identifier,Source Identifier
 type,Type
 format,Format
 rightsstatement,Rights
+contributor,Contributor
