@@ -1,4 +1,33 @@
-# collectionbuilder-gh
+# History 404 Class Instructions:
+
+1. Download your group’s metadata spreadsheet as a csv (comma separated values) file from google sheets (https://docs.google.com/spreadsheets/d/10I2Z9-pfD3s4dOZQJlmO6mU64uWKnCvZUdO-JUCC2-I/edit#gid=0):
+    - Go to File -- Download as -- Comma-separated values (.csv, current sheet)
+
+2. Without opening the file, rename it as metadata.csv
+
+3. Upload metadata.csv to the _data folder in your group’s Github repository
+
+4. At this point, the librarian working with your group will show you how to preview the digital collection
+
+5. Were there mistakes in your collection’s display? If so, return to your group’s metadata spreadsheet and correct any metadata mistakes **(Note: please make any edits only to your group's metadata sheet, not the class sheet)**
+    - Hints: 
+        - Make sure the filename in your metadata matches the file's name in reality.
+        - Did you add .jpg or .pdf to the end of your filename?
+        - Make sure your date is in the proper date format (yyyy-mm-dd).
+        - Are your latitude and longitude entered in the correct columns?
+
+6. Repeat steps 1-4, replacing the metadata.csv file with the most recently updated version of your metadata
+
+7. When your exhibit is displaying properly, proceed to changing the content and look of your site:
+    - _config.yml
+      - Change site title, description, and theme
+    - index.md
+      - Change banner image, featured subjects, and featured places
+    - about.md
+      - Change featured image, about page content
+
+
+# About the site you're using: collectionbuilder-gh
 
 https://github.com/CollectionBuilder/collectionbuilder-gh
 
