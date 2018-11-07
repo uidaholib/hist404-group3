@@ -2,10 +2,10 @@
 layout: home-infographic
 title: Home
 # add banner image to index page 
-banner-image: "objects/test001.jpg"
+banner-image: "objects/pg8-x-548.jpg"
 # add top subjects, for list see data/subjects.csv
-featured-subjects: "Buildings; Campuses; Picture postcards; County courthouses; Farms; Schools"
+featured-subjects: "mining; operative; trees; union"
 # add top locations, for list see data/places.csv
-featured-places: "Moscow, Idaho; Tacoma, Washington; Pullman, Washington; Spokane, Washington"
+featured-places: "Wallace, Idaho; Kellog, Idaho;"
 ---
 

@@ -5,9 +5,9 @@
 # Site settings
 
 # title of site appears in banner
-title: Group 3
+title: North Idaho Mining Collection
 # tagline appears in banner
-tagline: a theme for building simple digital exhibits
+tagline: union crackdown and trees
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
@@ -29,7 +29,7 @@ repository: https://github.com/uidaholib/hist404-group3
 
 # theme with Bootswatch (https://github.com/thomaspark/bootswatch)
 # Choose from: cerulean; cosmo; cyborg; darkly; flatly; journal; litera; lumen; lux; materia; minty; pulse; sandstone; simplex; sketchy; slate; solar; spacelab; superhero; united; yeti 
-bootswatch: # leave blank or comment out for plain bootstrap
+bootswatch: solar # leave blank or comment out for plain bootstrap
 
 # google services [optional!]
 # leave these blank or comment out to NOT include google code
